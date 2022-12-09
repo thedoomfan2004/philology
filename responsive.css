@@ -112,8 +112,8 @@
         height: 50px;
         font-size: 15px;
     }
-    .teachers-slider {
-    height:250px;
+    .teachers-block {
+    height:100px;
 }
 
 @media (max-width: 1300px) {
