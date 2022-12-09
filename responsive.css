@@ -112,6 +112,8 @@
         height: 50px;
         font-size: 15px;
     }
+    .teachers-slider {
+    height:250px;
 }
 
 @media (max-width: 1300px) {
